@@ -1,2 +1,0 @@
-<h2>Teste API REST em Java e Spring Boot</h2>
-<h3>Realizado atraves do canal Expertos Tech no YouTube com modificações, como alteração do banco de dados e incluindo a dependência do Swagger para documentação</h3>
